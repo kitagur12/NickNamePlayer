@@ -1,0 +1,15 @@
+name: NickNamePlayer
+main: nick\Main
+version: 1.0.0
+api: [5.0.0]
+
+commands:
+  nick:
+    description: Nickname Player
+    usage: /nick <player> <nickname>
+    permission: nickname.nick
+
+permissions:
+  nickname.nick:
+    description: Allows access to the hello command
+    default: op
