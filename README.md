@@ -1,5 +1,6 @@
 # NickPlayer
 PocketMine-MP Plugin (API: 5.0.0)
+
 This plugin allows you to change the player's name.
 
 # Main features
